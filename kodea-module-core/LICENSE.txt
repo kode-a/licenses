@@ -1,0 +1,142 @@
+Kodea Proprietary Software Licence
+Version 1.0
+Copyright (c) 2026 Kodea. All rights reserved.
+
+IMPORTANT: THIS SOFTWARE IS LICENSED, NOT SOLD.
+
+1. DEFINITIONS
+
+"Software" means the Kodea Core source code, modules, scripts,
+configuration, documentation, and related deliverables provided by Kodea.
+
+"Licensee" means the individual or legal entity receiving the Software under a
+commercial agreement, statement of work, order form, or other written approval
+from Kodea.
+
+"Authorized Project" means the Magento / Adobe Commerce project, websites,
+stores, and environments expressly covered by the applicable commercial
+agreement.
+
+2. LICENSE GRANT
+
+Subject to full payment and compliance with this Licence and the applicable
+commercial agreement, Kodea grants Licensee a limited, non-exclusive,
+non-transferable, non-sublicensable licence to:
+
+- install and use the Software within the Authorized Project;
+- copy the Software only as reasonably required for development, testing,
+  staging, backup, deployment, and disaster recovery within the Authorized
+  Project;
+- modify the Software internally for Licensee's own business operations within
+  the Authorized Project.
+
+3. RESTRICTIONS
+
+Licensee must not, and must not permit any third party to:
+
+- sell, resell, sublicense, lease, rent, distribute, or otherwise make the
+  Software available to any third party except as expressly approved in writing
+  by Kodea;
+- publish the Software in any public repository;
+- remove or alter copyright, authorship, proprietary, confidentiality, or
+  trademark notices;
+- use the Software to create a competing commercial product or reusable public
+  distribution package;
+- transfer the Software for use outside the Authorized Project without prior
+  written approval from Kodea.
+
+4. OWNERSHIP
+
+The Software, including all intellectual property rights, title, and interest,
+remains the exclusive property of Kodea and its licensors.
+
+Except for the limited licence expressly granted above, no rights are granted
+to Licensee by implication, estoppel, or otherwise.
+
+5. CONFIDENTIALITY
+
+The Software and its source code are confidential and proprietary information of
+Kodea.
+
+Licensee must protect the Software using reasonable security measures and must
+not disclose the Software to third parties except to employees and contractors
+who:
+
+- have a legitimate need to access it for the Authorized Project; and
+- are bound by written confidentiality obligations at least as protective as
+  those in this Licence.
+
+6. THIRD-PARTY COMPONENTS
+
+The Software may interact with or include third-party components that are
+subject to separate licence terms.
+
+Licensee is responsible for complying with those third-party terms where
+applicable. This Licence applies only to Kodea-owned portions of the
+Software.
+
+7. MODIFICATIONS
+
+Internal modifications created by Licensee remain subject to this Licence to the
+extent they are based on or incorporate the Software.
+
+Unless otherwise agreed in writing, Kodea retains all rights in its
+pre-existing materials, frameworks, patterns, and reusable know-how.
+
+8. SUPPORT AND MAINTENANCE
+
+Support, maintenance, updates, and enhancements are provided only if included in
+a separate written commercial agreement.
+
+No obligation to provide support or future updates exists unless expressly
+stated in writing.
+
+9. WARRANTY DISCLAIMER
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED "AS
+IS" AND "AS AVAILABLE", WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS,
+IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING WITHOUT LIMITATION ANY IMPLIED
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, OR
+NON-INFRINGEMENT.
+
+10. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, KODEA SHALL NOT BE
+LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES, OR FOR ANY LOSS OF PROFITS, REVENUE, DATA, BUSINESS INTERRUPTION, OR
+GOODWILL, ARISING OUT OF OR RELATED TO THE SOFTWARE OR THIS LICENCE, EVEN IF
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, KODEA'S TOTAL
+AGGREGATE LIABILITY ARISING OUT OF OR RELATED TO THE SOFTWARE OR THIS LICENCE
+SHALL NOT EXCEED THE AMOUNTS ACTUALLY PAID BY LICENSEE TO KODEA FOR THE
+SPECIFIC SOFTWARE DELIVERABLE GIVING RISE TO THE CLAIM DURING THE TWELVE (12)
+MONTHS PRECEDING THE EVENT.
+
+11. TERMINATION
+
+This Licence terminates automatically if Licensee breaches any material term of
+this Licence or the applicable commercial agreement.
+
+Upon termination, Licensee must immediately stop using the Software and, at
+Kodea's request, destroy or return all copies of the Software, except
+for archival copies required by law or bona fide disaster-recovery records.
+
+12. EXPORT, COMPLIANCE, AND LAWFUL USE
+
+Licensee is responsible for ensuring that use of the Software complies with all
+applicable laws, regulations, sanctions, export controls, and internal
+governance requirements.
+
+13. GOVERNING DOCUMENTS
+
+If there is any conflict between this Licence and an executed commercial
+agreement between Kodea and Licensee, the executed commercial agreement
+controls to the extent of the conflict.
+
+14. CONTACT
+
+For licensing questions, use the commercial contact channel defined in the
+applicable Kodea agreement.
+
+END OF LICENCE
